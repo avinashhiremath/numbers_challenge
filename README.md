@@ -1,4 +1,4 @@
-# numbers_challenge
+# Numbers Challenge
 
 Program to print numbers from 1 to 100.
 
